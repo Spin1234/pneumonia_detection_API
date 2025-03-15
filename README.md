@@ -1,4 +1,4 @@
-# pneumonia_detection_API
+# pneumonia_detection_API_documentation
 
 You can document your **Pneumonia Detection API** on GitHub using Markdown. Here’s an example `README.md` file with Fetch API code in JavaScript and React.  
 
