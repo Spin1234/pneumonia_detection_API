@@ -6,6 +6,8 @@
 
 ## **Pneumonia Detection API Documentation**  
 
+[https://pneumonia-detection-web.netlify.app/](https://pneumonia-detection-web.netlify.app/ "Test here")
+
 ### **Base URL**  
 ```
 https://pneumonia-detection-web-app.onrender.com
