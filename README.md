@@ -206,5 +206,3 @@ export default Home;
   "confidence": 0.95
 }
 ```
-
-You can add authentication (if needed), more details about response handling, and error cases. Let me know if you need further refinements! 🚀
